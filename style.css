@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+header {
+    padding: 50px;
+    text-align: center;
+    border-bottom: 5px solid yellowgreen;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+h5 {
+    margin-left: 180px;
+}
+
+footer {
+    margin-top: 60px;
+    font-size: 25px;
+}
+
+button:hover {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
+}
+
+.icon {
+    margin: 20px 20px 20px 20px;
+    font-size: 95px;
+}
+
+.modal-body {
+    font-size: 25px;
+}
+
+.modal-content {
+    background-color: olive;
+}
+
+#weapons {
+    margin-top: 40px;
+}
+
+#player {
+    margin-right: 40px;
+}
+
+#computer {
+    margin-left: 40px;
+}
+
+#playerSelection {
+    margin-right: 80px;
+    margin: 20px 20px 20px 20px;
+    font-size: 95px;
+}
+
+#computerSelection {
+    margin-left: 80px;
+    margin: 20px 20px 20px 20px;
+    font-size: 95px;
+}
+
+#new {
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+#modalWon {
+    padding: 250px;
+}
+
+#modalLost {
+    padding: 250px;
+}
